@@ -12,3 +12,5 @@
 (Also link to Ethics Module activities)
 
 Maybe worksheets from this article? https://nightingaledvs.com/the-kids-table-draw-along-dataviz/
+
+DVS Exercises Google Doc: https://docs.google.com/document/d/1IfLvzLCQMw69eBzd7_sHoBHeX_p78vJ6QmvdeJoavZo/edit
