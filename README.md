@@ -8,7 +8,7 @@ This project was made possible in part by the [Institute of Museum and Library S
 ## Contents
 
 * Slides
-* Activities
+* [Activities](activities)
 
 ## How to teach this course
 
@@ -20,7 +20,7 @@ We suggest the following sequences of the course modules for different workshop 
 * Key parts of a data visualization
 * Types of data visualizations and examples
 * Approaching visualizations with a critical eye
-* Activities
+* [Activities](activities)
 
 ### 2. Recommended 2-hour sequence
 
@@ -30,7 +30,7 @@ We suggest the following sequences of the course modules for different workshop 
 * Approaching visualizations with a critical eye
 * Preparing and understanding data
 * How are data visualizations made?
-* Activities
+* [Activities](activities)
 
 ### 3. Recommended full sequence (1-2 days)
 
@@ -44,7 +44,7 @@ We suggest the following sequences of the course modules for different workshop 
 * [Ethics in data visualization](https://visualizingthefuture.github.io/ethics-in-data-viz/)
 * Designing for accessibility
 * Designing for reproducibility
-* Activities
+* [Activities](activities)
 
 ## The goals for this workshop
 
