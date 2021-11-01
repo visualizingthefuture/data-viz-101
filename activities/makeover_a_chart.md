@@ -3,7 +3,7 @@
 * Split into groups of 2-4
 * Each group gets one chart
 * Groups redesigns chart
-    * Option A: groups sketch out the redesign informally, either on paper or using some kind of collaborative sketching software, like [SketchTogether](https://sketchtogether.com/)
+    * Option A: groups sketch out the redesign informally, either on paper or using some kind of collaborative sketching software, like [SketchTogether](https://sketchtogether.com/) or [Miro](https://miro.com/)
     * Option B: groups are given the actual chart file in a software application they know how to use (e.g., Google Sheets) and they redesign the chart in this tool in the time allotted
 * Groups share before/after with wider group and explain why they made the decisions they did 
 
