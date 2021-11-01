@@ -7,9 +7,18 @@
   * What are some potential concerns with this chart?
   * How might we address the concerns?
 
-Possible sources of makeovers:
+## Possible sources of makeovers
 
-* http://thewhyaxis.info/remakes/, especially http://thewhyaxis.info/defaults/ and http://thewhyaxis.info/gap-remake/ 
-* http://www.storytellingwithdata.com/?tag=Visual+Makeover
-* http://stephanieevergreen.com/category/blog/ 
-* Makeover Monday?
+* [The Why Axis Remakes](http://thewhyaxis.info/remakes/), especially [Breaking Excel Defaults – A Government Chart Remake](http://thewhyaxis.info/defaults/) and [Mind the Gap - An Economic Chart Remake](http://thewhyaxis.info/gap-remake/) 
+* [Storytelling With Data Makeovers](https://www.storytellingwithdata.com/blog?tag=Visual+Makeover)
+* [Evergreen Data Makeovers](https://stephanieevergreen.com/makeovers/) 
+* [Makeover Monday](https://www.makeovermonday.co.uk/makeovers/)
+
+## Total recommended time
+
+* 15-20 minutes
+
+## Tools/materials required
+
+* Way to display charts for discussion
+* Optional: prepared slides that show each version of the chart, one at a time
