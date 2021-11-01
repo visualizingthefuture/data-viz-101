@@ -1,4 +1,4 @@
-# Activities
+# Activities for Data Visualization 101 modules
 
 * [Chart Makeover Walk-Through](chart_makeover_walkthrough.md)
 * [Clean a Simple Dataset](clean_a_dataset.md)
@@ -9,8 +9,12 @@
 * [Which Charts Would You Choose? Version 1](chart_chooser_1.md)
 * [Which Charts Would You Choose? Version 2](chart_chooser_2.md)
 
-(Also link to Ethics Module activities)
+## Additional activities from the Ethics in Data Visualization workshop
 
-Maybe worksheets from this article? https://nightingaledvs.com/the-kids-table-draw-along-dataviz/
+* [Mapping Census (ACS) Data](https://visualizingthefuture.github.io/ethics-in-data-viz/activities/Mapping%20Census%20(ACS)%20Data)
+* [Redesigning Economist Charts](https://visualizingthefuture.github.io/ethics-in-data-viz/activities/Redesigning%20Economist%20Charts)
 
-DVS Exercises Google Doc: https://docs.google.com/document/d/1IfLvzLCQMw69eBzd7_sHoBHeX_p78vJ6QmvdeJoavZo/edit
+## Related resources
+
+* [THE KIDS' TABLE: Draw Along Dataviz](https://nightingaledvs.com/the-kids-table-draw-along-dataviz/): visualization template worksheets that can be used to scaffold hand-drawn data visualization activities
+* [Data Visualization Society #teaching-vis Exercises](https://docs.google.com/document/d/1IfLvzLCQMw69eBzd7_sHoBHeX_p78vJ6QmvdeJoavZo/edit): an open Google Doc used to collect a variety of data visualization activities and exercises 
