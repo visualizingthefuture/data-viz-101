@@ -12,4 +12,4 @@
 
 ## Tools/materials required
 
-* A way for individuals or groups to sketch out the options - either on paper or using some kind of collaborative sketching software, like [SketchTogether](https://sketchtogether.com/)
+* A way for individuals or groups to sketch out the options - either on paper or using some kind of collaborative sketching software, like [SketchTogether](https://sketchtogether.com/) or [Miro](https://miro.com/)
