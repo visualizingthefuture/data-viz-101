@@ -10,6 +10,7 @@ This project was made possible in part by the [Institute of Museum and Library S
 ## Contents
 
 * Slides
+    * [PowerPoint](Data%20Visualization%20101%20Modules.pptx)
 * [Activities](activities)
     * [Chart Makeover Walk-Through](activities/chart_makeover_walkthrough.md)
     * [Clean a Simple Dataset](activities/clean_a_dataset.md)
