@@ -3,6 +3,8 @@
 ## Introduction
 This repository contains materials that can be used in various combinations to teach introductory data visualization topics and skills. Please feel free to use these modules, repurpose and remix this content, add suggestions to this project, etc.! 
 
+Each of the Data Visualization 101 modules has been recorded and shared in a [YouTube playlist](https://www.youtube.com/playlist?list=PLNSGxw-xV6Nd88myphRROrYhodrU3m8Hd).
+
 This project was made possible in part by the [Institute of Museum and Library Services](https://www.imls.gov/), RE-73-18-0059-18. 
 
 ## Contents
