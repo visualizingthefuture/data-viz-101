@@ -17,7 +17,7 @@ Sample images:
 
 ## Total recommended time
 
-* 15-20 minutes
+* 5-8 minutes
 
 ## Tools/materials required
 
