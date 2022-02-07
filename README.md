@@ -5,7 +5,7 @@ This repository contains materials that can be used in various combinations to t
 
 Each of the Data Visualization 101 modules has been recorded and shared in a [YouTube playlist](https://www.youtube.com/playlist?list=PLNSGxw-xV6Nd88myphRROrYhodrU3m8Hd).
 
-This project was made possible in part by the [Institute of Museum and Library Services](https://www.imls.gov/), RE-73-18-0059-18. 
+This project was developed by the [Visualizing the Future](https://visualizingthefuture.github.io/) team and was made possible in part by the [Institute of Museum and Library Services](https://www.imls.gov/), RE-73-18-0059-18. 
 
 ## Contents
 
